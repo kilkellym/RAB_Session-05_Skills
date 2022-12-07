@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RAB_Session 05_Skills</Text>
+    <Description>Some description for RAB_Session 05_Skills</Description>
+    <Assembly>RAB_Session 05_Skills.dll</Assembly>
+    <FullClassName>RAB_Session_05_Skills.Command</FullClassName>
+    <ClientId>35467ec6-93bc-4630-9866-df09c8409b41</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RAB_Session 05_Skills</Name>
+    <Assembly>RAB_Session 05_Skills.dll</Assembly>
+    <FullClassName>RAB_Session_05_Skills.App</FullClassName>
+    <ClientId>bfa85c85-be72-4ac3-9118-2f25c20015c8</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
